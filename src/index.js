@@ -1,4 +1,4 @@
 // This is a docco test comment
-function test (str: string) {
+function test () {
     console.log(str);
 }
